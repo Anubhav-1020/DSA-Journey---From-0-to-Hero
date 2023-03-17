@@ -8,6 +8,7 @@ I will be uploading my entire learning from Day 1, i.e. tomorrow March 18, 2023 
 3. CodeHelp - DSA with C++ Plalist (YouTube)
 
 The programming language used will be C++.
+If somebody thinks that the roadmap needs modification pls feel free to share your suggestions. I will definitely take that in consideration.
 
 The roadmap is as follows: -
 
