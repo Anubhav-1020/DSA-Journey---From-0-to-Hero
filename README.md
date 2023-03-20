@@ -12,7 +12,7 @@ I will be uploading my entire learning from Day 1, i.e. tomorrow March 20, 2023 
 The programming language used will be C++.
 If somebody thinks that the roadmap needs modification pls feel free to share your suggestions. I will definitely take that in consideration.
 
-The platforms that I will ve using to practice problems are as follows -
+The platforms that I will be using to practice problems are as follows -
 
 1. Leetcode
 2. CodeForces
