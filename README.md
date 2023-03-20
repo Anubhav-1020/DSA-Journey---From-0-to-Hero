@@ -6,6 +6,8 @@ I will be uploading my entire learning from Day 1, i.e. tomorrow March 20, 2023 
 1. Code with Harry - C++ Tutorials (YouTube)
 2. Geeks for Geeks DSA Self Paced Course
 3. CodeHelp - DSA with C++ Playlist (YouTube)
+4. Vivek Gupta - DP Workshop (YouTube)
+5. Take U Forward - Graphs & DP Series (YouTube)
 
 The programming language used will be C++.
 If somebody thinks that the roadmap needs modification pls feel free to share your suggestions. I will definitely take that in consideration.
