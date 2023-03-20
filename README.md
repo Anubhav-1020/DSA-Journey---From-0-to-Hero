@@ -12,11 +12,13 @@ I will be uploading my entire learning from Day 1, i.e. tomorrow March 20, 2023 
 The programming language used will be C++.
 If somebody thinks that the roadmap needs modification pls feel free to share your suggestions. I will definitely take that in consideration.
 
-The platforms that I will be using to practice problems are as follows -
+The practice problems will be taken from following resources -
 
 1. Leetcode
 2. CodeForces
 3. CodeChef
+4. 450 DSA Sheet
+5. GFG SDE Sheet
 
 Also, if anybody wants to join me in this Saga pls feel free to connect with me via LinkedIn.
 
